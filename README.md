@@ -1,6 +1,6 @@
 # Talks
 
-The following lists talks as performed / planned by [https://janmarten.name](Jan-Marten de Boer).
+The following lists talks as performed / planned by [Jan-Marten de Boer](https://janmarten.name).
 
 ## PHP
 
