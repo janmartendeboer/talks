@@ -1,3 +1,7 @@
+# Talks
+
+The following lists talks as performed / planned by [https://janmarten.name](Jan-Marten de Boer).
+
 ## PHP
 
 | Date           | Talk | Presentation / slides | Description |
