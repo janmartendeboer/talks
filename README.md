@@ -1,5 +1,5 @@
 # Talks
-Talks and presentations by Jan-Marten de Boer
+Talks and presentations by [Jan-Marten de Boer](https://janmarten.name).
 
 ## PHP
 
