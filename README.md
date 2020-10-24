@@ -1,7 +1,4 @@
-# Talks
-Talks and presentations by [Jan-Marten de Boer](https://janmarten.name).
-
-## PHP
+# PHP
 
 | Date           | Talk | Presentation / slides | Description |
 |:---------------|:-----|:----------------------|:------------|
